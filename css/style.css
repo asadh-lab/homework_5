@@ -68,7 +68,7 @@ footer{
 } 
 
 #logo{
-  animation-name: anime; 
+  animation-name: logo_wiggle; 
   animation-duration: 15s;
  
 }
